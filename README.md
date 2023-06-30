@@ -22,6 +22,6 @@
   <a href = "oii@elio.rf.gd"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://elio.digital" target="_blank"><img src="https://img.shields.io/badge/-SITE-blue?style=for-the-badge&logo=sitepoint&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/Douglas16180/Douglas16180/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](cobrinha.svg)
  
 </div>
